@@ -551,3 +551,7 @@ tests/ios/Firebase
 
 google-services.json
 GoogleService-Info.plist
+# HQ context — generated indices and per-developer overrides
+.hq/
+AGENTS.local.md
+CLAUDE.local.md
